@@ -24,7 +24,7 @@ const Wrapper = styled.div`
 `
 
 const ArticleWrapper = styled.div`
-  margin: 0 auto 7rem 30%;
+  margin: 0 auto 7rem;
   display: flex;
   flex-direction: column;
 
